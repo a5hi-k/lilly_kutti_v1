@@ -1,0 +1,6 @@
+.venv
+__pycache__
+.env
+ig_session.json
+session_uploads/
+backend/ReferImage/

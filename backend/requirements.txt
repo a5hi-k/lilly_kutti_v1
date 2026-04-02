@@ -1,0 +1,15 @@
+fastapi
+uvicorn[standard]
+websockets
+pydantic
+pydantic-settings
+python-dotenv
+langchain
+langgraph
+httpx
+google-genai
+groq
+python-multipart
+gradio_client
+instagrapi
+Pillow
